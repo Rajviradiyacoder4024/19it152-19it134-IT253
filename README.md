@@ -1,1 +1,2 @@
-# 19it152-19it134-IT253
+# CurrencyExchange
+This is an android app that exchanges currency of different countries.
